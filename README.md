@@ -40,7 +40,7 @@ review concepts of security schemes, clock synchronization, and transaction sche
 that are used to achieve reliability in practical distributed systems. At the end of this
 module you will be able to apply these reliability concepts to the car’s V2V network
 assignments.
-* Module 6 - Tutorial and experience with [resilient information architecture platform for Smart Grid](https://riaps.isis.vanderbilt.edu) - This will be an invitation based 3 hour tutorial for you. You will be able to see how all the concepts we discussed in the class are implemented in practice. This will be an exciting tutorial and I encourage you to attend it.
+* Tutorial and experience with [resilient information architecture platform for Smart Grid](https://riaps.isis.vanderbilt.edu) - This will be an invitation based 3 hour tutorial for you. You will be able to see how all the concepts we discussed in the class are implemented in practice. This will be an exciting tutorial and I encourage you to attend it.
 * Final Project- the final module for this course is going to be a project, which you will develop
 in teams.
 
