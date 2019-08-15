@@ -19,14 +19,14 @@ The course is going to be divided into 5 modules. Each module will end with an a
 
 * Module 1: Review of Networking - We will review the concept of sockets, internet
 routing, TCP/UDP and DNS. These concepts are the backbone of distributed systems.
-* Module 2: Distributed Systems - We will review the different distributed
+* Module 2: Distributed Systems and Internet of Things- We will review internet of things, including the different distributed
 application interaction patterns, for example pub/sub, synchronous and asynchronous
 point to point communication. You will learn to use or review the use of MQTT,
 REST/Websocket and ZeroMQ, DDS in this module. Towards the end of this module
 you will build a vehicle-to-vehicle (V2V) communication network between cars in a
 simulated environment called TORCS.
 * Module 3: Understanding performance bottlenecks, Quality of Service and Failures - In this module we will review what is quality of service, how is it expressed and what
-failure means. During this module you will get introduced to the FMECA analysis and
+failure means.  It will be important to understand the concept of time synchronization. Additionally, during this module you will get introduced to the FMECA analysis and
 will have to analyze the failure modes of the distributed application you have built
 during the second module.
 * Module 4: Reliability in Distributed systems – In this module you will be introduced
@@ -40,6 +40,7 @@ review concepts of security schemes, clock synchronization, and transaction sche
 that are used to achieve reliability in practical distributed systems. At the end of this
 module you will be able to apply these reliability concepts to the car’s V2V network
 assignments.
+* Module 6 - Tutorial and experience with [resilient information architecture platform for Smart Grid](https://riaps.isis.vanderbilt.edu) - This will be an invitation based 3 hour tutorial for you. You will be able to see how all the concepts we discussed in the class are implemented in practice. This will be an exciting tutorial and I encourage you to attend it.
 * Final Project- the final module for this course is going to be a project, which you will develop
 in teams.
 
