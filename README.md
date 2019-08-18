@@ -23,9 +23,9 @@ For more details visit my group project page.
 
 https://scope-lab-vu.github.io/
 
-**A video of the distributed systems platform that you might be able to use in the class for projects. https://www.youtube.com/watch?v=odsnaK-yP0o
+A video of the distributed systems platform that you might be able to use in the class for projects. https://www.youtube.com/watch?v=odsnaK-yP0o
 
-**A related paper on the platform is available at https://arxiv.org/abs/1902.02432
+A related paper on the platform is available at https://arxiv.org/abs/1902.02432
 
 ## Preferred Contact Method
 
