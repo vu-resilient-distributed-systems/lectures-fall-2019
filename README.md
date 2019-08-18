@@ -6,7 +6,7 @@ The goal of this class is to provide a foundation in the area of realiable distr
 
 ### About Me
 
-IDr. Abhishek Dubey is an Assistant Professor of Electrical Engineering and Computer Science at Vanderbilt
+Dr. Abhishek Dubey is  an Assistant Professor of Electrical Engineering and Computer Science at Vanderbilt
 University, Senior Research Scientist at the Institute for Software-Integrated Systems. He is a senior member
 of IEEE and he has published over 180 peer-reviewed articles. He has extensive experience in designing
 resilient real-time distributed systems, specially within the application areas of energy systems and
@@ -22,7 +22,6 @@ peer energy exchange.
 For more details visit my group project page.
 
 https://scope-lab-vu.github.io/
-
 
 **A video of the distributed systems platform that you might be able to use in the class for projects. https://www.youtube.com/watch?v=odsnaK-yP0o
 
