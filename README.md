@@ -42,6 +42,7 @@ I am also available by appointment as required. Send me an email if you need to 
 
  * Textbook: Download from https://link.springer.com/book/10.1007/978-1-4471-2416-0 The book is available for free download from vanderbilt campus.
  * In addition to the textbook we will be assigning several reading materials for the class. 
+ * Also look at the examples posted on the class lecture slides.
  
 # Class Discussion
 
