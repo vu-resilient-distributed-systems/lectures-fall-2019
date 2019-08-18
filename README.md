@@ -8,6 +8,93 @@ In the initial part of this class we will use two linux virtual machines. Follow
 
 Ignore the instructions given in the subsection on "Securing Communication Between the VM and BBBs" because you will not be using beaglebones. 
 
+## Alternative - Using Amazon EC2
+
+**Guide to getting started with Amazon Web Services**
+
+Adopted from: <https://aws.amazon.com/ec2/getting-started/>
+
+**Step 1: Setting up AWS educate account**
+
+-   Use this link <https://aws.amazon.com/education/awseducate/> and
+    join aws educate. Please use your Vanderbilt email to create an aws
+    educate account.
+
+**Step 2: Getting into the AWS account**
+
+-   Once you are approved of the account, please use this link
+    <https://aws.amazon.com/education/awseducate/> to sign into to the
+    AWS educate dashboard.
+
+-   In the dashboard please select “**AWS Account**” and then “**Go to
+    your AWS Educate starter kit**”
+
+-   Then on the right top corner select “**Start Lab**”, this will take
+    a couple of minutes the first time.
+
+    (Do not “**End Lab**”, if you do so, you will lose all the data and
+    instances you are using)
+
+-   Once done choose “**Open Console**” on the left side, this will land
+    you into the AWS services Dashboard.
+
+**Step 3: Configure your instance**
+
+-   Select “**EC2**” from the AWS services dashboard.
+
+-   Then select the “**Launch instance**” option.
+
+-   You have a few free instances which can be selected and used. For
+    the assignments we will require the instance of “**Ubuntu 16.04
+    LTS**”. Select the one with free tier eligible.
+
+-   Select the security group, memory and other requirements for your
+    instance.
+
+-   Then click on “**Launch**” your instance. It will ask for a key
+    pair.
+
+-   Create a key pair: Select “**Create a new key pair**” and assign it
+    a name you want. The key pair file (.pem) will be downloaded, save
+    this file as you will require it every time you log in to the
+    instance.
+
+-   Finally, choose “**Launch Instances**” to complete the set up.
+
+Note: It will take a few minutes to initialize your instance.
+
+**Step 4: Connect to your instance**
+
+-   Once your instance has been approved and ready to use, you can
+    connect to your instance using PUTTY.
+
+-   Install PUTTY using this link <https://www.putty.org/>
+
+-   Now on your AWS dashboard you can see that your instance is running
+    and after you see this select “**connect**”, this will prompt a page
+    with instructions to connect to your instance using PUTTY.
+
+-   Follow these instructions and use the public DNS provided to connect
+    to your instance.
+
+-   By default the password for the Ubuntu instance is **ubuntu**. Type
+    in this password if prompted.
+
+-   Following all these steps will get you into the Ubuntu instance.
+    After you get in, you could install things similar to what you do on
+    your laptop.
+
+**Step 5: Terminate instances**
+
+AWS EC2 instance can be used up to 750 hours/ month for free. If you
+exceed this, **you will be charged** **as per their pricing in this
+link** <https://aws.amazon.com/ec2/pricing/>
+
+Select the EC2 instance, choose “**Actions**”, select “**Instance
+State**”, and “**Terminate**” (if you are not using the instance
+anymore). Terminate will delete your instance and data from AWS. So, for
+short time use of instances you can “**STOP**” the instance.
+
 
 # Reading Material
 
