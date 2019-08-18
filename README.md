@@ -174,3 +174,72 @@ State**”, and “**Terminate**” (if you are not using the instance
 anymore). Terminate will delete your instance and data from AWS. So, for
 short time use of instances you can “**STOP**” the instance.
 
+
+# Course Policies
+
+## Late Submissions
+
+Submissions will be due by midnight on the day mentioned in the assignment and homework description. Late submissions will be penalized with an automatic **20 percent penalty per day** (applied relative to the graded score for the submission). Code that does not compile will be penalized by 50% automatically. It is your repsonsibility to provide appropriate instructions and proof that your code works. 
+
+## No collaborations unless explicitly permitted.
+
+The Vanderbilt Honor Code will govern work done. ANY VIOLATIONS WILL RESULT in the case to be reported to the honor council. You are welcome to refer to the online sources for your assignments. However, you must not copy the code and must provide citation of the source of inspiration if do refer to the online sites. All work will be submitted via github.
+
+## Evaluation
+
+The following grading criteria are tentative and are
+subject to change. Each graded item in this course will be assigned a
+certain number of points. Your final grade will be computed as the total
+number of points you achieved divided by the number of points possible.
+The instructor reserves the right to apply a curve to the final result.
+
+
+## Grading Criteria
+
+| Category        | Percentage  |
+| ------------- |:-------------:| 
+| Programming Assignments    | 40% | 
+| Class Discussion and Reading Assignments    | 10% | 
+| Quizzes          | 30% |
+| Final Project              | 20% |
+
+
+## Letter Grade Distribution
+
+| Score        | Letter  |
+| ------------- |:-------------:| 
+| >= 93.00    |   A      |
+| 90.00 - 92.99  |  A-   |
+| 87.00 - 89.99 | B+     |
+| 83.00 - 86.99  | B     |
+| 80.00 - 82.99  | B-     |
+| 77.00 - 79.99  | C+  |
+| 73.00 - 76.99  | C  |
+| 70.00 - 72.99  | C-  |
+| 67.00 - 69.99  | D+  |
+| 63.00 - 66.99  | D  |
+| 60.00 - 62.99  | D-  |
+| <= 59.99   |  F  |
+
+
+## Disability Statement
+
+Vanderbilt is committed to equal opportunity
+for students with disabilities. If you have a physical or learning
+disability, you should ask the Opportunity Development Center to assist
+you in identifying yourself to your instructors as having a disability,
+so that appropriate accommodation may be provided. Without notification,
+your instructors assume that you have no disabilities or seek no
+accommodation.
+
+## Emergency Evacuation Plan
+
+ In the event of a fire or other emergency,
+the occupants of this class should collect their coats and personal
+belongings and leave the building using the stairs. VANDERBILT
+UNIVERSITY POLICY FORBIDS REENTRY TO A BUILDING IN WHICH AN ALARM HAS
+OCCURRED WITHOUT AUTHORIZATION BY VANDERBILT SECURITY. If, in
+consequence of a disability, you anticipate the need for assistance,
+please discuss that need with the instructors.
+
+If a tornado siren is heard, please go to the nearest interior hallway or interior rooms away from windows.
