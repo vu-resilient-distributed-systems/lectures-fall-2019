@@ -2,6 +2,12 @@
 
 The goal of this class is to provide a foundation in the area of realiable distributed computing. This is specially important in order to be able to construct high assurance applications in this era of Internet of Things and Smart Cities. The technical landscape of the technologies in this area is changing rapidly: Memcached (a new kind of key-value store) has displaced standard file system storage, Chubby supports scalable locking and synchronization, ZooKeeper enables consistency-based  distributed services. Big Table manages sparse but enormous data sets. ZeroMQ. MQTT and DDS provide the reliable communication services. 
 
+# Getting Started
+
+In the initial part of this class we will use two linux virtual machines. Follow the instructions at https://github.com/RIAPS/riaps-integration/blob/master/riaps-x86runtime/README.md and load two virtual machines on your computer. When you are importing ensure that you reset the network interface addresses.
+
+Ignore the instructions given in the subsection on "Securing Communication Between the VM and BBBs" because you will not be using beaglebones. 
+
 
 # Reading Material
 
