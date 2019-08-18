@@ -2,7 +2,41 @@
 
 The goal of this class is to provide a foundation in the area of realiable distributed computing. This is specially important in order to be able to construct high assurance applications in this era of Internet of Things and Smart Cities. The technical landscape of the technologies in this area is changing rapidly: Memcached (a new kind of key-value store) has displaced standard file system storage, Chubby supports scalable locking and synchronization, ZooKeeper enables consistency-based  distributed services. Big Table manages sparse but enormous data sets. ZeroMQ. MQTT and DDS provide the reliable communication services. 
 
+**Instructor**: Abhishek Dubey `(first name . last name at vanderbilt.edu)`
 
+### About Me
+
+IDr. Abhishek Dubey is an Assistant Professor of Electrical Engineering and Computer Science at Vanderbilt
+University, Senior Research Scientist at the Institute for Software-Integrated Systems. He is a senior member
+of IEEE and he has published over 180 peer-reviewed articles. He has extensive experience in designing
+resilient real-time distributed systems, specially within the application areas of energy systems and
+transportations systems. His key contributions include model-based design methods for developing and
+designing software health management techniques for real-time avionics applications. He has also developed
+a novel information architecture platform for designing secure and partitioned real-time applications
+conformant to ARINC-653 on top of Linux operating system. Recently, he has been investigating the
+application of robust design principles borrowed from embedded systems to large scale internet of thing
+networks found in energy networks. This work has resulted in techniques for diagnosing cyber-and physical 
+faults in breaker assemblies in transmission lines and a privacy-preserving decentralized system for peer-to-
+peer energy exchange.
+
+For more details visit my group project page.
+
+https://scope-lab-vu.github.io/
+
+
+**A video of the distributed systems platform that you might be able to use in the class for projects. https://www.youtube.com/watch?v=odsnaK-yP0o
+
+**A related paper on the platform is available at https://arxiv.org/abs/1902.02432
+
+## Preferred Contact Method
+
+We will use email and brightspace for communication. You can also create issues on github to point to any specific problem with an example or assignment. 
+
+## Office Hours
+
+Office Hours will be available on Friday at 1 PM to 2 PM at my office in Institute for Software Integrated Systems. http://www.isis.vanderbilt.edu/contact
+
+I am also available by appointment as required. Send me an email if you need to meet with me outside the office hours.
 
 # Reading Material
 
