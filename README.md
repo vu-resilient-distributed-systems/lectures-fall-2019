@@ -19,7 +19,7 @@ The course is going to be divided into 5 modules. Each module will end with an a
 
 * Module 1: Review of Networking - We will review the concept of sockets, internet
 routing, TCP/UDP and DNS. These concepts are the backbone of distributed systems.
-* Module 2: Distributed Systems and Internet of Things- We will review internet of things, including the different distributed
+* Module 2:  Internet of Things and cloud - We will review internet of things, including the different distributed
 application interaction patterns, for example pub/sub, synchronous and asynchronous
 point to point communication. You will learn to use or review the use of MQTT,
 REST/Websocket and ZeroMQ, DDS in this module. Towards the end of this module
