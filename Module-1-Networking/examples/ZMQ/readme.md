@@ -131,6 +131,8 @@ time based pollers which can periodically listen for the socket.
 
 [Rep-Req Folder](https://github.com/vu-resilient-distributed-systems/lectures-fall-2019/tree/master/Module-1-Networking/examples/ZMQ/REP-REQ) has a reply-request script. 
 
+[Pollers Folder](https://github.com/vu-resilient-distributed-systems/lectures-fall-2019/tree/master/Module-1-Networking/examples/ZMQ/Pollers) has script that uses polling.
+
 
 **References**
 
