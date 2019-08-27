@@ -6,3 +6,16 @@ Multicast is a networking construct where a sender can send a message to more th
 
 * mcast.py - This example shows how to create multicast receivers and senders. Multicast is a selective group communication mechanism. Broadcast is the way to send message to everyone in a local network. 
 * Other multicast example [https://pymotw.com/3/socket/multicast.html](https://pymotw.com/3/socket/multicast.html)
+
+# Running
+
+```
+python2 mcast.py listen
+```
+
+and 
+
+```
+python2 mcast.py announce
+```
+
