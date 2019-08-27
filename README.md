@@ -44,6 +44,11 @@ Office Hours will be available on Friday at 1 PM to 2 PM at my office in Institu
 
 I am also available by appointment as required. Send me an email if you need to meet with me outside the office hours.
 
+
+## TA Office Hours
+
+Wednesday 3:00 - 4:00pm at FGH 304
+
 # Reading Material
 
  * Textbook: Download from https://link.springer.com/book/10.1007/978-1-4471-2416-0 The book is available for free download from vanderbilt campus.
