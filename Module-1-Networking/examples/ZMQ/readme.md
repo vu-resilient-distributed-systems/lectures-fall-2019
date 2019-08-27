@@ -2,6 +2,7 @@
 
 ```
 sudo apt-get install python-zmq
+        or
 pip install pyzmq
 ```
 
