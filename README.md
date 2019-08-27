@@ -47,6 +47,8 @@ I am also available by appointment as required. Send me an email if you need to 
 
 ## TA Office Hours
 
+Hu Dewei <dewei.hu@Vanderbilt.Edu>;
+
 Wednesday 3:00 - 4:00pm at FGH 304
 
 # Reading Material
