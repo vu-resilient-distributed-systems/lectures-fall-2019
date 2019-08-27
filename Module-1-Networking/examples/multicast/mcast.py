@@ -21,6 +21,7 @@ import time
 import struct
 
 
+
 def ip_is_local(ip_string):
     """
     Uses a regex to determine if the input ip is on a local network. Returns a boolean. 
@@ -176,5 +177,5 @@ if __name__ == '__main__':
     elif len(sys.argv) > 1 and sys.argv[1] == "announce":
         announce_loop(multicast_address, multicast_port)
     else:
-        exit("Run 'multicast_example.py listen' or 'multicast_example.py announce'.")
+        exit("Run 'mcast.py listen' or 'mcast.py announce'.")
     
