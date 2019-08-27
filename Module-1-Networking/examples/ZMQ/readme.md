@@ -125,6 +125,11 @@ for any incoming message. In the above example the socket will be always
 listening for any incoming event, but this can be altered. You can have
 time based pollers which can periodically listen for the socket.
 
+***Examples***
+
+[Pub-Sub Folder](https://github.com/vu-resilient-distributed-systems/lectures-fall-2019/tree/master/Module-1-Networking/examples/ZMQ/pub-sub) has simple publisher-subscriber script.
+
+
 **References**
 
 -   <http://zguide.zeromq.org/page:all>
