@@ -65,6 +65,7 @@ def get_local_ip():
         finally:
             # Always dispose of sockets when you're done!
             temp_socket.close()
+    print(local_ip)
     return local_ip
 
 def create_socket(multicast_ip, port):
