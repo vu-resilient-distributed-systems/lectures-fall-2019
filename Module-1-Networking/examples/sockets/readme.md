@@ -8,6 +8,7 @@ The typical network protocol used with sockets is either TCP or UDP. In most cas
 
 * Python TCP example [https://pymotw.com/3/socket/tcp.html](https://pymotw.com/3/socket/tcp.html)
 * python UDP example [https://pymotw.com/3/socket/udp.html](https://pymotw.com/3/socket/udp.html)
+* ***TCP*** and ***UDP*** folders have some example scripts to get started.
 * Run the Sever-Client scripts which uses TCP ***Python3 Server.py*** & ***Python3 Client.py*** in different terminals.
 
 ### Non Blocking
