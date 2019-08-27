@@ -129,6 +129,8 @@ time based pollers which can periodically listen for the socket.
 
 [Pub-Sub Folder](https://github.com/vu-resilient-distributed-systems/lectures-fall-2019/tree/master/Module-1-Networking/examples/ZMQ/pub-sub) has simple publisher-subscriber script.
 
+[Rep-Req Folder](https://github.com/vu-resilient-distributed-systems/lectures-fall-2019/tree/master/Module-1-Networking/examples/ZMQ/REP-REQ) has a reply-request script. 
+
 
 **References**
 
