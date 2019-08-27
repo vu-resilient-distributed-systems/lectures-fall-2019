@@ -1,8 +1,7 @@
 **Installation**
 
 ``
-sudo apt-get install python-zmq
-
+sudo apt-get install python-zmq//
 pip install pyzmq
 ``
 
