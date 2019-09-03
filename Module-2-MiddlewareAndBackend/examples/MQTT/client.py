@@ -1,12 +1,15 @@
-#client.py script which publishes messages under a topic.
-#The client first connects itself to the online broker and publishes the messages.
-#Try any of the three available online brokers: test.mosquitto.org, broker.hivemq.com, iot.eclipse.org
-#To locally install MQTT broker use: sudo apt-get install mosquitto
-#This creates a broker on your localhost (127.0.0.1)
-#Use mosquitto -v to see the message communication between the client and server
-
+from time import time
+import datetime
+#from datetime import datetime
+import random
 import time
+import csv
+import os
+import zmq
 import paho.mqtt.client as mqtt
+broker= "127.0.0.1"#"192.168.99.100" #"192.168.1.184""test.mosquitto.org"
+port=2000
+topic = "code"
 
 def on_connect(client, userdata, flags, rc):
     if rc==0:
@@ -16,23 +19,25 @@ def on_connect(client, userdata, flags, rc):
         print("Bad connection Returned code=",rc)
 
 def main():
-    broker="iot.eclipse.org" #"127.0.0.1"#online broker
-    mqtt.Client.connected_flag=False
-    client = mqtt.Client("client")#create an instance of client
-    client.on_connect=on_connect
+    mqtt.Client.connected_flag=False#create flag in class
+    broker="127.0.0.1"#"test.mosquitto.org"
+    client = mqtt.Client("client1")             #create new instance
+    client.on_connect=on_connect  #bind call back function
     client.loop_start()
     print("Connecting to broker ",broker)
-    client.connect(broker)      #connect to the online broker
-    while not client.connected_flag: #wait in loop until the client connects to broker
-        print("wait")
+    client.connect(broker)
+    while not client.connected_flag: #wait in loop
+        print("In wait loop")
         time.sleep(1)
-    print("Ready to send message")
-    for i in range(0,10):
-        msg= "hello"
-        client.publish("MQTT",msg)#publish the messages to broker
+    print("Main Loop")
+    msg="hello"
+    while True:
+        client.publish(topic, msg)
         print(msg)
-        time.sleep(5)
+        time.sleep(2)
+
     client.disconnect()
 
 if __name__=="__main__":
 	main()
+
