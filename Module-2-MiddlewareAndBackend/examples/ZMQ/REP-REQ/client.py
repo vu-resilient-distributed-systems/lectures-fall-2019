@@ -11,8 +11,8 @@ def main():
     socket= context.socket(zmq.REQ)
     socket.connect("tcp://localhost:5200")
     for i in range(10):
-        socket.send("Hello")
-        msg=socket.recv()
+        socket.send_string("Hello")
+        msg=socket.recv_string()
         print(msg)
         time.sleep(2)
     socket.close()
