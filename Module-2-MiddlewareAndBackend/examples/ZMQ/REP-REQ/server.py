@@ -12,10 +12,10 @@ def main():
     socket= context.socket(zmq.REP)
     socket.bind("tcp://127.0.0.1:5200")#Here REp is used to bind
     while True:
-        msg= socket.recv()
+        msg= socket.recv_string()
         print(msg)
         time.sleep(1)
-        socket.send("world")
+        socket.send_string("world")
     socket.close()
 
 if __name__=="__main__":
