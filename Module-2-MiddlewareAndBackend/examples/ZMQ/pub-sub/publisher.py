@@ -14,7 +14,7 @@ def main():
     while True:
         for i in range (0,100):
             msg = randint(1,100)#publishing random numbers every 2s
-            socket.send(str(msg))#Send messages
+            socket.send_string(str(msg))#Send messages
             print(msg)
             time.sleep(2)
     socket.close()
