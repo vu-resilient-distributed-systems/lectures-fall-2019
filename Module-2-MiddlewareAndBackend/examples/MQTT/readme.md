@@ -15,7 +15,16 @@ distributed applications, broker plays a very important role in
 scheduling messages, load balancing, etc. MQTT allows the luxury to have
 broker services online or on local host.
 
-**Server.py**
+**Broker**
+
+A number of brokers are available online like "test.mosquitto.org", "iot.eclipse.org" which can be used. However, they may be offline sometimes and may not work. So, it is best to install a broker on the localhost using:
+```
+sudo apt-get update
+sudo apt-get install mosquitto
+```
+Then use 127.0.0.1 for the broker ip address.
+
+**subscriber.py**
 
 In this example the server subscribes to a specific topic and the
 message is received from the MQTT broker. The broker receives the
@@ -44,7 +53,7 @@ on the terminal. This function can be anything.
 **Client.subscribe(“Topic”)** subscribes to the messages under the topic
 defined.
 
-**Client.py**
+**publisher.py**
 
 The client connects to the MQTT broker and publishes data which can then
 be subscribed at a later time by the server.
