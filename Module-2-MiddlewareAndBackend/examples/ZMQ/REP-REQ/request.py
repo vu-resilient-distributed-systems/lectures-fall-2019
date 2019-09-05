@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 #Simple script to request from the server
 #Uses the REP-REQ messaging pattern
 #Simplest Hello-World to get a feel of REP-REQ

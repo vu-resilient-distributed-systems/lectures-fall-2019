@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 #A simple script to publish random numbers on port 5200, in every 2s interval
 #PUB-SUB pattern is the easiest messaging pattern.
 

@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 #Simple script to recive the messages published by publisher on port 5200
 
 import zmq
