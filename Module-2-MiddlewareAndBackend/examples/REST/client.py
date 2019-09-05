@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 #Simple script which is involved in posting and getting data
 #Initially the request is posted with josn data to the specified URL
 #Type in the url "http://localhost:4000/read_request/10" on your browser to view the data.

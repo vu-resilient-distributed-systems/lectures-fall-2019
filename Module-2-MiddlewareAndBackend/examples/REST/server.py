@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 #Simple program using python flask
 #HTTP post and get methods are shown below
 #Post: The browser tells the server, that it wants to post data to a specified URL

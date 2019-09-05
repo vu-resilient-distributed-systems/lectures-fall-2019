@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #server.py which receives data through websockets from the client.
 #Asynchronous communication happens between the client & server.
 
