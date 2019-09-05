@@ -3,11 +3,9 @@
 + Ensure you have python pip `sudo apt-get install python-pip`
 + then install flask `sudo pip install flask`
 + then install request `sudo pip install requests`
-**Flask**
 
 
-
-Is a web framework which provides tools and libraries to build web
+**Flask** Is a web framework which provides tools and libraries to build web
 applications. The flask framework is written in python and it is easy to
 build web application using simple python scripts.
 
