@@ -12,8 +12,9 @@ The goal of this class is to provide a foundation in the area of reliable and re
 |  Aug 27,29 2019       |   [Networking](Module-1-Networking/Networking.pptx)           |  [reading](Module-1-Networking/reading)         |            |  [Multicast and Socket Examples](Module-1-Networking/examples) |
 |  September 3 2019       |   [Middleware and backend](Module-2-MiddlewareAndBackend/Module-2-MiddlewareAndBackend.pptx)           |           | [Assignment 1](https://github.com/vu-resilient-distributed-systems/assignment-1-fall-19)           |  [Multicast and Socket Examples](Module-2-MiddlewareAndBackend/examples) |
 |  September 12,17,19 2019       |   [Reliability Fundamentals](Module-3-reliability)           |   [reading](Module-3-reliability/reading/algirdas_avizienis.pdf)||Asssignment 2 - to be given
-
-
+| Early October| (Testing)(Module-4-Finding-Failures)||||
+| Mid October| (Consensus and Avoiding Failures)(Module-5-AvoidingFailures||||
+| Late October| (Consensus and Avoiding Failures -Part II)(Module-6-Blockchains||||
 
 ## Instructor
 
