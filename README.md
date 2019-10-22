@@ -13,8 +13,10 @@ The goal of this class is to provide a foundation in the area of reliable and re
 |  September 3 2019       |   [Middleware and backend](Module-2-MiddlewareAndBackend/Module-2-MiddlewareAndBackend.pptx)           |           | [Assignment 1](https://github.com/vu-resilient-distributed-systems/assignment-1-fall-19)           |  [Multicast and Socket Examples](Module-2-MiddlewareAndBackend/examples) |
 |  September 12,17,19 2019       |   [Reliability Fundamentals](Module-3-reliability)           |   [reading](Module-3-reliability/reading/algirdas_avizienis.pdf)||Asssignment 2 - to be given
 | Early October| [Testing](Module-4-Finding-Failures)||||
-| Mid October| [Consensus and Avoiding Failures](Module-5-AvoidingFailures||||
-| Late October| [Consensus and Avoiding Failures -Part II](Module-6-Blockchains||||
+| Mid October| [Consensus and Avoiding Failures](Module-5-AvoidingFailures)|[reading](Module-5-AvoidingFailures/reading)|||
+| Late October| [Consensus and Avoiding Failures -Part II](Module-6-Blockchains)|[reading](Module-6-Blockchains/reading)|||
+| Late October| [Anomalies](module-7-anomaly-detection)|[reading](module-7-anomaly-detection/AnomalyDetection.pdf)|||
+| Early November|[Diagnosis]|||
 
 ## Instructor
 
