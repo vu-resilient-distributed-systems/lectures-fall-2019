@@ -17,6 +17,9 @@ The goal of this class is to provide a foundation in the area of reliable and re
 | Late October| [Consensus and Avoiding Failures -Part II](Module-6-Blockchains)|[reading](Module-6-Blockchains/reading)|||
 | Late October| [Anomalies](module-7-anomaly-detection)|[reading](module-7-anomaly-detection/AnomalyDetection.pdf)|||
 | Early November|[Diagnosis]|||
+|Middle November| Time Synchronization|||
+|Middle November| Group Membership and Virtual Synchrony|||
+|End of Class| Discussions of Postmortem Analysis of Incidents and Retrofitting Reliability in Existing Systems|||
 
 ## Instructor
 
