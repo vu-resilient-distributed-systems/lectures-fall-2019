@@ -1,0 +1,26 @@
+{
+  "TestMemFail": [
+    {
+      "target": [
+        "10.0.2.15"
+      ],
+      "actors": [
+        {
+          "name": "MemFailActor",
+          "actuals": []
+        }
+      ]
+    },
+    {
+      "target": [
+        "10.0.2.15"
+      ],
+      "actors": [
+        {
+          "name": "MemMonitorActor",
+          "actuals": []
+        }
+      ]
+    }
+  ]
+}
