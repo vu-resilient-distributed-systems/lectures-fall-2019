@@ -1,5 +1,6 @@
 
 # The review is available at [Review.pdf](16-review/Review.pdf)
+# Please see http://chariot.isis.vanderbilt.edu/tutorial.html for an introduction to CHARIOT
 
 # Introduction
 
