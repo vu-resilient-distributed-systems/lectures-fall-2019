@@ -1,0 +1,27 @@
+app TestMemFail {
+	message Value;
+	
+	component MemPublisher{
+		timer trigger 5000;
+		pub pubport : Value;
+		timer clock;
+	}
+	
+	
+	component MemSubscriber {
+		sub subport : Value;
+	}
+	
+	actor MemFailActor {
+		{
+			controller : MemPublisher;
+		}
+	}
+	
+	actor MemMonitorActor {
+		{
+			monitor: MemSubscriber;
+		}
+	}
+	
+}

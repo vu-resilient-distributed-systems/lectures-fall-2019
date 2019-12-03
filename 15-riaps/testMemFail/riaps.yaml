@@ -1,0 +1,9 @@
+!!python/object:riaps.utils.appdesc.AppDescriptor
+home: /home/riaps/riaps-apps/apps-vu/fault-tolerance-tests/testMemFail
+host: '167772687'
+hosts:
+- 10.0.2.15
+mac: 0800277216e1
+network: {}
+sha: 0800277216e1
+url: file:////home/riaps/riaps-apps/apps-vu/fault-tolerance-tests/testMemFail
